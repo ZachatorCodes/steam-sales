@@ -1,4 +1,4 @@
-import steamLogo from "../assets/steam-logo.png"
+import steamLogo from "/steam-logo.png"
 
 function Top() {
   return (
